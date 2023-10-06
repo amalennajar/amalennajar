@@ -284,6 +284,6 @@
     </p>
 
 ### 📥 &nbsp; If you have any questions don’t hesitate to post it or contact me on:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://github.com/amalennajar/amalennajar/blob/master/linkedin.png)](https://www.linkedin.com/in/amal-najjar/)&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://github.com/amalennajar/amalennajar/blob/main/linkedin.png)](https://www.linkedin.com/in/amal-najjar/)&nbsp; 
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amalennajar&show_icons=true&locale=en&layout=compact" alt="amalennajar" />
